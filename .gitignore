@@ -1,0 +1,7 @@
+*.zip
+*.tar.gz
+*.binary
+*.json
+aws/
+.terraform/
+terraform.tfstate*
